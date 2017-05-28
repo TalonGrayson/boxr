@@ -6,7 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 # Stuff I have added:
-gem 'devise', '3.4.1'
+gem 'devise', '>= 4.1.1'
 gem 'bootstrap-sass'
 
 
