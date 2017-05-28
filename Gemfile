@@ -8,7 +8,7 @@ end
 # Stuff I have added:
 gem 'devise', '>= 4.1.1'
 gem 'bootstrap-sass'
-
+gem 'pg'
 
 # Stuff added by 'rails new'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
