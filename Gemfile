@@ -9,6 +9,7 @@ end
 gem 'devise', '>= 4.1.1'
 gem 'bootstrap-sass'
 gem 'pg'
+gem 'jquery-turbolinks'
 
 # Stuff added by 'rails new'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
